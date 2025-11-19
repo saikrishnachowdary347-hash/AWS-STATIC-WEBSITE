@@ -24,7 +24,7 @@ Overview
 --------
 Amazon S3 can serve static websites (HTML, CSS, JS, images). For production with a custom domain and HTTPS, use CloudFront with an ACM certificate. This guide covers both minimal setups (S3 website endpoint) and production-ready setups (CloudFront + OAC + ACM + Route 53).
 
-Prerequisites
+🧱🔥😵Prerequisites
 -------------
 - AWS account with permissions to manage S3, CloudFront, ACM, and Route 53 (if using custom domain).
 - AWS CLI installed and configured (aws configure).
