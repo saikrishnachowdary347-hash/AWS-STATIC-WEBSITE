@@ -67,8 +67,10 @@ That's it — upload the provided index.html and follow the steps above to have 
 
 
 
-✨ Skills Learned
+✨#Skills Learned
+
 AWS S3 · Static Website Hosting · IAM · Cloud Deployment
 
-🙌 Acknowledgment
+🙌# Acknowledgment
+
 Special thanks to Rakesh Taninki for helping me complete this project. 🚀 onstrating how to host and deploy a static website using AWS S3 by configuring bucket policies, enabling static website hosting, and making it publicly accessible.
